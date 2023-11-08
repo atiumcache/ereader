@@ -1,4 +1,4 @@
-# eReader
+# eReader Simulation
 A simple representation of an eBook reader that works with Project Gutenberg.
 
 The program simulates an eReader experience. The user can view a bookstore, 'purchase' books, and read them on Project Gutenburg. 
